@@ -1,0 +1,4 @@
+{
+  "prettier.useTabs": true,
+  "react.beautify.onSave": true
+}
