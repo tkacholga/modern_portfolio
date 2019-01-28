@@ -183,7 +183,8 @@ main {
 
 .projects-heading {
   margin-top: 10px;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  color: #eece1a; }
 
 .projects {
   display: grid;
